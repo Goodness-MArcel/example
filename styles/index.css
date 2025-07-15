@@ -1,3 +1,20 @@
 body {
     background-color: green;
 }
+/* 
+p {
+    background-color: yellow;
+} */
+
+.firsth1{
+    color: red;
+}
+
+.style {
+    color: blue;
+}
+
+#you {
+    color: orange;
+    background-color: black;
+}
